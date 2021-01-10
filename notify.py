@@ -17,11 +17,11 @@ def Notification():
 	notification.notify( 
 			title = "English Vocabulary", 
 			message = word,
-			#app_icon = "/home/abhishek/Desktop/notif.jpeg",
+			app_icon = "/home/abhishek/Desktop/notif.jpeg",
 			timeout = 15
 					) 
-schedule.every(10).minutes.do(Notification)
-#schedule.every().hour.do(notification)
+schedule.every(10).minutes.do(Notification)		#for minute setting 
+#schedule.every().hour.do(notification)			#for hour setting
 
 while True:
 	schedule.run_pending()
