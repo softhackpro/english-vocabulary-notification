@@ -1,0 +1,266 @@
+Greedy          लालची
+Worth           लायक/योग्य
+Revenge         बदला लेना
+Satisfied       संतुष्ट / तृप्त
+Dissatisfied    असंतुष्ट/नाखुश
+Cost            दाम/कीमत
+Price           दाम/कीमत
+Still           अभी तक/अभी भी
+Know            जानना/मालूम होना
+Tough           कठिन/कठोर/सख्त
+a lot of        बहुत
+Goal            लक्ष्य/उदेश्य
+Particular      विशेष/खास
+Sensible        समझदार/अक्लमंद
+Admire          तारीफ करना/सराहना करना
+Need            जरूरत
+Opportunity     मौका/अवसर
+Hurry up        जल्दी करना/जल्दी करो
+Interfere       दखल देना/हस्तक्षेप करना
+Irritate.       चिढाना/उकसाना/जलन पैदा करना
+Groan           कराहना
+Belch           डकार आना
+Caugh ( कफ )    खाँसना
+Snore ( स्नोर )    खर्राटे लेना
+Hiccup ( हिकप )  हिचकी आना
+Grind the teeth    दाँत किटकिटाना
+Honest          ईमानदार
+Dishonest       बेईमान
+Neighbour(नेवर )  पड़ोसी
+Exception(एक्सेप्शन )  अपवाद
+imitate         नकल करना/अनुसरण करना
+Heartless       निर्दय
+insolent        बदतमीज/ढीठ/असभ्य
+Fortunate       भाग्यवान/भागशाली
+Violence        हिंसा/क्रूरता/बल प्रयोग
+Willpower       इचछाशक्ति/संकल्प शक्ति/मनोबल
+Lucky           भाग्यशाली
+illusion        भ्रम/भ्रांति
+Flexible        लचीला/लचकदार
+Provide         प्रदान करना/मुहैया कराना
+Beneficial      फायदेमंद/लाभदायक/हितकारी
+Want            चाहना
+Understand      समझना
+Try             कोशिश करना/प्रयास करना
+Random          बिना सोचे समझे/क्रमरहित
+Responsibility   जिम्मेदारी/उत्तरदायित्व
+Wicked          दुब्ट
+Enemy           दुश्मन
+Deliberately    जानबूझकर
+Conspiracy      षड्यंत्र/साजिश
+Affect          प्रभाव डालना/प्रभावित करना
+Demand          माँग
+Development     विकास
+Specially       खासकर/विशेष रूप से
+Accurate        एकदम सही/शुद्ध/सटीक
+Arrogant        अभिमानी/अहंकारी/घमंडी
+Learn           सीखना
+Allow           अनुमति देना/आज्ञा देना
+Compulsory      आवश्यक/अनिवार्य
+Humiliate       अपमान करना/नीचा दिखाना
+Resume          संक्षिप्त विवरण/फिर से शुरू करना
+Judgement       निर्णय
+Dizzy(डिजी)      चक्कर
+Flattery        चापलूसी/खुशामद
+Ultimately      आखिरकार/अंत में/अंततः
+Sympathy        सहानुभूति/हमदर्दी/संवेदना
+Till now        अभी तक
+Obsession(ऑवशेसन)       जुनून/धुन
+Stubborn(स्टवर्न)       जिद्दी/अड़ियल/हठी
+Bother(बादर )           परेशान करना/तंग करना
+Suffocation     घुटन/दम घुटना/साँस रूकना
+Rotten          सड़ा हुआ
+Not yet         अभी तक नहीं/अभी नहीं
+Ulitmate        अंतिम/आखिरी/सवश्रेष्ठ
+Well mannered   तमीजदार/शिब्ट
+Encourage       प्रोत्साहित करना/बढावा देना
+guilty          दोषी
+Innocent        निर्दोष
+Either          दोनो मे से एक/यह या वह/भी
+Nither.         कोई भी नहीं/न यह न वह/भी नहीं
+Perhaps         शायद/संभवतः/कदाचित/हो सकता है
+Faithful        वफादार
+Satisfaction    संतुष्टि
+Result          परिणाम/नतीजा
+Rely(रीलाय)       भरोसा करना/ निर्भर होना
+Actually(एक्चुअली)   दरअसल/वास्तव में
+Attractive      आकर्षक
+Destroy         नब्ट करना/बर्बाद करना
+Wink            आँख मारना/पलक झपकना/झपकी
+Confess         पाप स्वीकृति/दोष स्वीकार करना
+imagination(इमेजिनेशन)  कल्पना/कल्पना शक्ति
+Burden          बोझ/भार
+Destination     मंजिल/लक्ष्य/गंतव्य
+Justify         सही साबित करना/उचित ठहराना
+Praise ( प्रेश )   प्रशंसा करना/तारीफ करना
+Unexpected.     आकस्मिक/अचानक/अप्रत्याशित
+Priority(प्रायोर्टी)    प्राथमिकता/अग्रता
+Pretend         बहाना करना/ढोंग करना/दिखावा करना
+Superstitious(सुपसटिशियस)  अंधविश्वासी/वहमी
+Determination   दृढ निश्चय/दृढ संकल्प/पक्का इरादा
+Wonder          आश्चर्य/अचंभित होना/जानने को उत्सुक होना
+Regular         नियमित
+Essential       ( असेंसियल ) आवश्यक/अनिवार्य/अनुभव
+Discriminate    ( डिशक्रिमिनेट ) भेदभाव करना/अंतर करना/पक्षपात करना
+Listen          सुनना
+Why not         क्यों नहीं
+Since when      कब से
+Enough          पर्याप्त/काफी
+Courage         साहस/हिम्मत
+Proper          उचित/सही/ठीक
+Really          सच में/सचमुच में
+Literally       सचमुच/सही में
+Reply           जवाब देना/उत्तर देना
+Special         खास/विशेष/विशिष्ट
+Due to          के कारण/की वजह से
+Depend          निर्भर होना/आश्रित होना
+Complete        पूरा करना/पूर्ण करना
+Obtain          प्राप्त करना/हांसिल करना
+Finish          समाप्त करना/खत्म करना
+Deny ( डिनाय )    मना करना/नकारना
+Labour          परिश्रम करना/मेहनत करना
+Remind          याद दिलाना/स्मरण कराना
+In future       भविष्य में/आने वाले समय में
+Make a noise    हो-हल्ला करना/शोरगुल करना
+Skip            छोड़ देना
+Bitter          कड़वा
+Agree           सहमत
+Just            तुरंत/अभी
+Limited         सीमित
+Evil            बुराई/दुब्टता/हानि
+Blunt           मुहफट/स्पष्टवादी
+Influence       प्रभाव/असर
+Give up         हार मान लेना/त्यागना
+Wisdom          अक्ल/वुद्धि/वुद्धिमता
+Somehow         जैसे तैसे/किसी तरह
+Anyhow          चाहे जैसे/किसी भी तरह
+Well-being      भलाई/हित/कल्याण
+Well-wisher     शुभचिंतक/हितैषी
+Spoil           खराब कर देना/बिगाड़ देना
+Expect          उम्मीद लगाना/आशा करना
+Hesitate        संकोच करना/हिचकिचाना
+Admire          प्रशंसा करना/तारीफ करना
+Guide           मार्गदर्शन करना/रास्ता दिखाना
+Nap 2 - 3 hours     दिन मे 2 - 3 घंटे सोना
+Reach           पहुंचना
+After           के बाद
+Before          के पहले
+Serve           सेवा करना
+Affection       स्नेह/मोह
+Stil            फिर भी/अभी तक
+Artificial      बनावटी/झूठा
+Opposite        विपरीत/उल्टा
+Let             अनुमति देना/होने देना
+Spend           खर्च करना/बिताना
+Serious         गंभीर/चिंताजनक
+Right here      यहीं/इसी जगह
+Shameless       निरल्लज/बेशर्म
+Evident         प्रत्यक्ष/स्पष्ट/जाहिर
+Proficient      कुशल/दक्ष/निपुण
+Forgive         माफ करना/क्षमा करना
+Approximate     लगभग/अनुमानित
+Tolerate        बर्दाश्त करना/सहन करना
+Delicate        नाजुक/कोमल/संवेदनशील
+Convenient      सुविधाजनक/आरामदायक
+Sneeze          छींकना
+Dull            सुस्त/आलसी
+Natter          गुन-गुनाना
+idea            योजना/विचार
+Civilized       सभ्य/शिब्ट
+Deceive         धोखा देना
+Intention       इरादा/नीयत
+Impressive      प्रभावशाली
+Wish            इच्छा/कामना करना
+Always          हमेशा/सदैव/सदा
+Apologize       माफी मांगना
+Already         पहले ही/पहले से
+Prediction          भविष्यवाणी
+Majority ( मेजोरिटी )     बहुमत
+Crack finger    ऊँगली चटकाना
+Wait            इंतजार करना/प्रतीक्षा करना
+Leisure         फुर्सत/आराम/खाली समय
+Snapping the fingers  चुटकी बजाना
+Although ( आलदो )      हालांकि/फिर भी
+Short-tempered      गुस्सैल/चिड़चिड़ा/तुनुकमिजाज
+Again           पुनः/फिर
+Extent           हद/सीमा
+Durable         टिकाऊ/स्थायी
+Again & Again   बार बार
+Biting nails    नाखून चबाना
+Sieve the tea   चाय छानना
+Liability       दायित्व/जिम्मेदारी
+Scratch head     शिर खुजाना
+Hardly          मुश्किल से/शायद ही
+Abnormal        असामान्य/अनुचित
+Dispute         मतभेद/विवाद/झगड़ा
+Against         के विरुद्ध/के खिलाफ
+Repent          पछताना/पछतावा करना
+Superior        बेहतर/श्रेब्ठतर/उच्चतर
+Apt ( ऐप्ट )       उपयुक्त/योग्य/लायक
+Agitation        व्याकुलता/घबराहट/बेचैनी
+Nourish ( नरिश )  पालन पोषण करना
+Slightly        कुछ हद तक/थोड़ा सा/जरा सा
+Retrieve        पुनः प्राप्त करना/वापस पा लेना
+Provoke         भड़काना/उकसाना/उत्तेजित करना
+Misguide        रास्ता भटकाना/गुमराह करना/बहकाना
+Riff-raff       ऐसा-वैसा
+Dick and herry  ऐरा-गैरा
+Rolling stone   बेपैंदी का लोटा
+Talk nonsense   बेकार की बात
+Sum and substance  कुल मिलाकर
+Face to face    आमने सामने
+Ups and downs   उतार चढाव
+Day to Day      रोजाना/रोजमर्रा का
+Give up         हार मान लेना/त्याग देना
+All in all      सब मिलाकर/कुल मिलाकर
+Anyway          खैर/वैसे भी
+Frankly         साफ साफ/खुलकर
+Oh ! i see      अरे ! अब मै समझा
+By the way      वैसे/चलो ये बताओ...
+By chance       इतेफाक से/संयोग से/मान लो कि
+Hardly          मुश्किल से
+Actually        असल में/वास्तव में
+Basically       मूल रूप से/खास तौर पर
+Honestly        ईमानदारी से/ईमानदारीपूर्वक
+Exactly         एकदम सही सही/ठीक ठीक/बिल्कुल सही
+At once         तुरंत
+At times        कभी-कभी
+At all          थोड़ा सा भी/बिल्कुल भी
+Aware of        जानकारी होना ( किसी चीज का )
+Anonymous(एनाँनिमस)  गुमनाम/बेनाम ( कोई चीज )
+Easy            आसान
+Easily          आसानी से
+Final           अंतिम/आखरी
+Finally         आखिरकार
+Sudden          अचानक
+Suddenly        अचानक से
+Patience        धैर्य/सब्र
+Patiently       धैर्य से/सब्र से
+Correct         सही
+Correctly       सही तरीके से
+Common          आम बात
+Commonly        आम तौर पर
+Most            सबसे ज्यादा
+Mostly          ज्यादा दर/अधिकतर
+Direct.         सीधा/सीधे
+Directly.       सीधे ही/सीधे तरीके से
+Rude(रूड)        बदतमीज
+Rudely          बदतमीजी से
+Quick           शीध्र/तेज/तीव्र
+Quickly.        शीध्रता से/तेजी से
+Ghost           भूत
+Ghostly         भूतों वाला/भूतों जैसा
+Careful         सावधान/फिक्रमंद
+Carefully       सावधानी से/ध्यान से
+Main            मुख्य/खास
+Mainly          मुख्य रूप से/खास तौर पर
+Recent          हाल ही का/ताजा
+Recently        हाल ही में/थोड़ी देर पहले
+Comfortable     आरामदायक/सुखद
+Comfortably     आराम से/चैन से
+Fortunately     किस्मत से/भाग्य से
+Unfortunately   बदकिस्मती से/दुर्भाग्य से
+Normal          मामूली/साधारण
+Normally        मामूली तौर पर/साधारण तरीके से
+Temporary       अस्थाई/कुछ ही देर का
+Temporarily     अस्थाई रूप से/कुछ ही देर के लिए
