@@ -8,12 +8,12 @@ You can change the word list for your own purpose like English to Hindi or Engli
 
 First download this repository from link https://github.com/softhackpro/english-vocabulary-notification.git
 
-Second go to directory where you download: 
+Second go to directory where you download:<br> 
 cd /home/$name/english-vocabulary-notification /
 
-run this python3 file using: 
+run this python3 file using:<br> 
 python3 notify.py
 
 
-If any problem then contect me in gmail or github
+If any problem then contect me in gmail or github<br>
 gamil:-abhigupt654@gmail.com or softhack.x64@gamil.com
